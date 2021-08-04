@@ -1,0 +1,34 @@
+{
+  "personeller": [
+    {
+      "id": "2",
+      "isim": "Fatih",
+      "yas": 23,
+      "email": "fatih@google.com"
+    },
+    {
+      "id": "3",
+      "isim": "Ahmet",
+      "yas": 32,
+      "email": "ahmet@google.com"
+    },
+    {
+      "isim": "Tufan",
+      "email": "tufan@google.com",
+      "yas": 23,
+      "id": "bRmuhKe"
+    },
+    {
+      "isim": "fatih",
+      "email": "fatih@gmail.com",
+      "yas": 23,
+      "id": "_mQ-VF0"
+    },
+    {
+      "id": "1",
+      "isim": "ilayda",
+      "email": "ilayda@gmail.com",
+      "yas": 20
+    }
+  ]
+}
